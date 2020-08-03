@@ -1,1 +1,1 @@
-# coding
+This repo consists of working solutions to all the problem that I have attempted in HackerRank practise section. Besides the problem solutions the repository also contains some crucial data structure implementations needed to optimally solve the problems that require them such as USFD(Union-Set Disjoint Function).
